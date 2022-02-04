@@ -2,11 +2,11 @@ const knexfile = {
     development: {
         client: 'pg',
         connection: {
-            database: '',
-            user: '',
-            password: '',
-            host: '',
-            port: '',
+            database: 'expressjs_postgresql_with_migrations',
+            user: 'rafi',
+            password: 'kepodehlu',
+            host: '127.0.0.1',
+            port: '5432',
         },
         migrations: {
             directory: 'db/migrations',
