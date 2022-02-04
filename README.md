@@ -4,6 +4,7 @@ The ExpressJS PostgreSQL with migrations and seeds using knex (ES6 Style).
 ## Database Schema
 ![Database Schema](https://raw.githubusercontent.com/rafifirmansyah/expressjs-postgresql-with-migrations-and-seeds/main/database_schema.png)
 
+
 ## Requirements
 * Node JS ^17
 * PostreSQL ^13
