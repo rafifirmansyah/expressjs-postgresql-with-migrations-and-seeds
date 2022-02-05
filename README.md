@@ -16,4 +16,6 @@ The ExpressJS PostgreSQL with migrations and seeds using knex (ES6 Style).
 5. Fill src/knexfile.js with your database credential.
 6. npx knex migrate:latest --knexfile=src/knexfile.js
 7. npx knex seed:run --knexfile=src/knexfile.js
-8. done.
+8. npm run dev.
+9. Go to browser and enter 'http://localhost:3000/users-with-phone-numbers' on the address bar to get users data.
+10. done.
